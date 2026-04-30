@@ -1,4 +1,4 @@
-const BASE_URL = "http://localhost:5000";
+const BASE_URL = "https://task-manager-pr67.onrender.com";
 
 function showToast(msg) {
   const toast = document.createElement("div");
